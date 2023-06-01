@@ -12,7 +12,7 @@ our project aims to classify borrowers and predict whether they will be consider
 
 
 ## the problem
-Given a person's credit-card information, we will build a machine learning model that can classify the credit score. Our goal is to create a smart system with ML that can categorize individuals into class good or bad based on thier features.
+Given a person's credit-card information, we will build a few machine learning models that can classify the class of a specific individual into good or bad based on thier features.
 In the project we will use the data of a global company that collected basic bank details and gathered a lot of credit-related information.
 
 
