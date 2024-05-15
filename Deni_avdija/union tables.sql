@@ -1,0 +1,8 @@
+CREATE TABLE combined_season_data AS
+SELECT *, 'SEASON_1' AS season FROM deni2020
+UNION ALL
+SELECT *, 'SEASON_2' AS season FROM deni2021
+UNION ALL
+SELECT *, 'SEASON_3' AS season FROM deni2022
+UNION ALL
+SELECT *, 'SEASON_4' AS season FROM deni2023;
